@@ -1,36 +1,38 @@
 .container {
-    width: 80%;
-    margin: auto;
+  width: 80%;
+  margin: auto;
 }
 
+/* CSS comment */
+
 header {
-    background-color: cadetblue;
+  background-color: cadetblue;
 }
 
 nav {
-    background-color: burlywood;
+  background-color: burlywood;
 }
 
 main {
-    background-color: #9c9cac;
+  background-color: #9c9cac;
 }
 
 section {
-    background-color: gold;
+  background-color: gold;
 }
 
 article {
-    background-color: indianred;
+  background-color: indianred;
 }
 
 aside {
-    background-color: gainsboro;
+  background-color: gainsboro;
 }
 
 footer {
-    background-color: teal;
+  background-color: teal;
 }
 
 form {
-    background-color: floralwhite;
+  background-color: floralwhite;
 }
